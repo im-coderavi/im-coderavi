@@ -153,7 +153,7 @@ Greater Kolkata College of Engineering & Management (2022 - 2026)
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imavishek-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=imavishek-coder&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=imavishek-coder&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 <div align="center">
   <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imavishek-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
