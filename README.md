@@ -8,9 +8,17 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avishekgiri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishekgiri31@gmail.com)
+<a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=111827&labelColor=FFFFFF" />
+  </a>
+  <a href="https://linkedin.com/in/avishekgiri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF" />
+  </a>
+  <a href="mailto:avishekgiri31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF" />
+  </a>
+
+
 
 </div>
 
