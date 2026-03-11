@@ -17,12 +17,8 @@
   <a href="mailto:avishekgiri31@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF" />
   </a>
-
-
-
+  
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -45,8 +41,6 @@ I'm passionate about building **scalable web applications** and **AI-powered aut
 Greater Kolkata College of Engineering & Management (2022 - 2026)
 
 </div>
-
----
 
 ## 💻 Tech Stack & Skills
 
@@ -95,8 +89,6 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 
 </div>
 
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
@@ -104,8 +96,6 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
 
 <div align="center">
 
