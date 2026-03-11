@@ -84,24 +84,6 @@ Greater Kolkata College of Engineering & Management (2022 - 2026)
 
 </div>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-
-
-### 🎨 Creative & Social
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/avi_x_in)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@avishekgiri)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/avishekgiri)
-
-</div>
-
----
-
 ## ☕ Support My Work
 
 <div align="center">
@@ -133,6 +115,6 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
 
-**Made with ❤️ by Avishek Giri**
+**Made by Avishek Giri**
 
 </div>
