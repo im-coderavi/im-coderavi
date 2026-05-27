@@ -4,7 +4,7 @@
 
 ### Full Stack MERN Developer | AI & Automation Engineer | Building Tomorrow's Web 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%92%BB;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;20%2B+Projects+Delivered+%E2%9C%85;Open+for+Collaboration+%F0%9F%A4%9D;Let's+Build+Something+Amazing!" alt="Typing Animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&pause=1000&color=F7BC00&width=435&lines=Full+Stack+Dev.+MERN+(+AI+)+%F0%9F%98%8E;Blogger+%26+Freelancer+%F0%9F%98%89" alt="Typing SVG" /></a>
   
 </div>
 
