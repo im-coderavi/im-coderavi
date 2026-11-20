@@ -1,22 +1,46 @@
 <div align="center">
 
-#  Hi There, I'm Avishek Giri! 👋
+<div align="center">
 
-### Full Stack MERN Developer | AI & Automation Engineer | Building Tomorrow's Web 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=550&height=65&lines=AVISHEK+GIRI" alt="AVISHEK GIRI" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&pause=1000&color=F7BC00&width=435&lines=Full+Stack+Dev.+MERN+(+AI+)+%F0%9F%98%8E;Blogger+%26+Freelancer+%F0%9F%98%89" alt="Typing SVG" /></a>
-  
+</div>
+<h3>Full Stack MERN Developer <sup>·</sup> AI & Automation Engineer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Building+Scalable+Web+Applications;Developing+AI-Powered+Solutions;Exploring+LLMs+%26+Automation;Blogger+%26+Freelancer" alt="Typing Animation" />
+
 </div>
 
-# 💫 About Me:
-I'm passionate about building scalable web applications and AI-powered automation systems. With expertise in the MERN stack and hands-on experience with workflow automation, I transform ideas into production-ready solutions.<br><br>🔭 Currently working on AI-driven content automation platforms<br>🌱 Exploring Next.js, FastAPI, and advanced AI integrations<br>💼 Delivered 20+ client projects in WordPress & custom web development<br>🎯 Focused on clean code, responsive design & solving real-world problems<br>🤝 Open to internships, freelance work & open-source collaboration<br>📧 Reach me at avishekgiri31@gmail.com<br>⚡ Fun fact: I believe in learning by building — every project makes me better!
+---
 
+## About Me
 
-# 👾 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=im-coderavi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=im-coderavi&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=im-coderavi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm passionate about building scalable web applications and AI-powered automation systems. With expertise in the MERN stack and hands-on experience with workflow automation, I transform ideas into production-ready solutions.
 
+- Currently working on AI-driven content automation platforms
+- Exploring Next.js, FastAPI, and advanced AI integrations
+- Delivered 20+ client projects in WordPress & custom web development
+- Focused on clean code, responsive design & solving real-world problems
+- Open to internships, freelance work & open-source collaboration
+- Reach me at [avishekgiri31@gmail.com](mailto:avishekgiri31@gmail.com)
+- Fun fact: I believe in learning by building — every project makes me better!
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="68" alt="C++" /></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="68" alt="TypeScript" /></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="68" alt="Node.js" /></a>&nbsp;&nbsp;
+<a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" height="68" alt="Supabase" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="68" alt="MongoDB" /></a>&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="68" alt="FastAPI" /></a>&nbsp;&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="68" alt="Express.js" /></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="68" alt="Python" /></a>
+
+</div>
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
