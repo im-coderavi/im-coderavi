@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=550&height=65&lines=AVISHEK+GIRI" alt="AVISHEK GIRI" />
+<div align="center">
+  <img src="./assets/avishek-name.svg"
+       width="550"
+       alt="AVISHEK GIRI" />
+</div>
 
 </div>
 <h3>Full Stack MERN Developer <sup>·</sup> AI & Automation Engineer</h3>
