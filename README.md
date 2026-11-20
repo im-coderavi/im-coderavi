@@ -8,7 +8,8 @@
 </div>
 <h3>MERN + AI Engineer</h3>
 </div>
-## About Me
+
+## **About Me** 😀🧑‍💻
 I'm passionate about building scalable web applications and AI-powered automation systems. With expertise in the MERN stack and hands-on experience with workflow automation, I transform ideas into production-ready solutions.
 
 - Currently working on AI-driven content automation platforms
@@ -18,7 +19,7 @@ I'm passionate about building scalable web applications and AI-powered automatio
 - Open to internships, freelance work & open-source collaboration
 - Reach me at [avishekgiri31@gmail.com](mailto:avishekgiri31@gmail.com)
 - Fun fact: I believe in learning by building — every project makes me better!
-## Tech Stack
+## **Tech Stack**
 
 <div align="center">
 <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="68" alt="C++" /></a>&nbsp;&nbsp;
