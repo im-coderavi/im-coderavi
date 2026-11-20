@@ -9,9 +9,8 @@
 </div>
 
 </div>
-<h3>Full Stack MERN Developer <sup>·</sup> AI & Automation Engineer</h3>
+<h3>MERN + AI Engineer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Building+Scalable+Web+Applications;Developing+AI-Powered+Solutions;Exploring+LLMs+%26+Automation;Blogger+%26+Freelancer" alt="Typing Animation" />
 
 </div>
 
